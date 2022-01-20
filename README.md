@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Save the Children in Bangladesh](https://bangladesh.savethechildren.net/)** as a **Jr. SQA Engineer**
 
-- 🌱 I’m currently learning **Selenium with Docker & CI/CD**
+- 🌱 I’m currently learning **Jenkins**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
