@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Save the Children in Bangladesh](https://bangladesh.savethechildren.net/)** as a **Jr. SQA Engineer**
+- 🔭 I’m currently working on **[Brain Station 23](https://brainstation-23.com/)** as a **Associate SQA Engineer**
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **Tosca**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
