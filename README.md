@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Brain Station 23](https://brainstation-23.com/)** as a **Associate SQA Engineer**
+- 🔭 I’m currently working at **[Brain Station 23](https://brainstation-23.com/)** as an **Associate SQA Engineer**
 
 - 🌱 I’m currently learning **Tosca**
 
