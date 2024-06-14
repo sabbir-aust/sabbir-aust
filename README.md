@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **[Brain Station 23](https://brainstation-23.com/)** as a **SQA Engineer**
 
-- 🌱 I’m currently learning **Tosca**
+- 🌱 I’m currently working on **Playwright**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
